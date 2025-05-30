@@ -1,0 +1,2 @@
+# Smart-Agriculture-Platform-Crop-Recommendation-and-Disease-Detection-System-using-DeepLearning
+Designed and developed an intelligent crop recommendation system aimed at supporting farmers in making data-driven agricultural decisions. The system leverages machine learning algorithms, real-time weather data, soil sensor input, and GIS mapping to provide personalized crop suggestions tailored to a farmer’s specific region and land conditions.
